@@ -1,14 +1,49 @@
+"users"[
 {
-  "users": [ 
+  "id": 1,
+  "hhandessn1": "hello"
+},
 
-  ],
-  "products": [
     {
       "id": 1,
-"name": "flahki",
-      "description": "флешки", 
-      "price": 2.63,
-      "img_url": "https://ae-pic-a1.aliexpress-media.com/kf/Seddc7e31c4a8418eab64d137dbf24b77B/Zsuit-10pcs-USB-Flash-Drive-Pendrive-128GB-Flash-Memory-Stick-32Gb-64GB-USB-Storage-Key-USB.jpg_.webp",
-    }
-  ]
-},
+    "name": "LED display ",
+    "description": "Can display 2-linesX 16-charasters, Operate with 5V Dc.",
+    "prise": 128,
+    "author_id": 1,
+    "photo_url": "https://m.media-amazon.com/images/I/51iOQp2GNmL._AC_UF894,1000_QL80_.jpg"
+  }, 
+  {
+    "id": 2,
+    "name": "Arduino UNO",
+    "description": "Brand new and hight quality.",
+    "prise": 226,
+    "author_id": 3,
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg"
+  },
+    {
+      "id": 3,
+    "name": "ESP8266 5V",
+    "description": "This wireless relay is based on the AI-Thinker ESP-01.",
+    "prise": 459,
+    "author_id": 2,
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsfgNYFc3WtxvnuPwpSiIWi2xJle2r_ITAw&s"
+  },
+    {
+      "id": 5,
+    "name": "RGB",
+    "description": "Can make color party.",
+    "prise": 102,
+    "author_id": 3,
+    "photo_url":
+  },
+  "users"[
+
+    {"id": 6,
+    "name": "7-Segment Display",
+    "description": "Epic.",
+    "prise": 300,
+    "author_id": 2,
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LiIbp2TCXXDIp4QRdkk7t4AdoXoQs_QKMA&s"
+  },
+]
+
