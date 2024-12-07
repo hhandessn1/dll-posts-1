@@ -1,0 +1,14 @@
+{
+  "users": [ 
+
+  ],
+  "products": [
+    {
+      "id": 1,
+"name": "flahki",
+      "description": "флешки", 
+      "price": 2.63,
+      "img_url": "https://ae-pic-a1.aliexpress-media.com/kf/Seddc7e31c4a8418eab64d137dbf24b77B/Zsuit-10pcs-USB-Flash-Drive-Pendrive-128GB-Flash-Memory-Stick-32Gb-64GB-USB-Storage-Key-USB.jpg_.webp",
+    }
+  ]
+},
