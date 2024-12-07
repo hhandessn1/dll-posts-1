@@ -1,9 +1,10 @@
-"users"[
+{
+  "users"[
 {
   "id": 1,
   "hhandessn1": "hello"
-},
-
+}],
+"products":[
     {
       "id": 1,
     "name": "LED display ",
@@ -44,6 +45,6 @@
     "prise": 300,
     "author_id": 2,
     "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6LiIbp2TCXXDIp4QRdkk7t4AdoXoQs_QKMA&s"
-  },
-]
-
+    }
+  ]
+}
