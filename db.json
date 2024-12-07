@@ -1,5 +1,5 @@
 {
-  "users"[
+  "users": [
 {
   "id": 1,
   "hhandessn1": "hello"
@@ -35,7 +35,7 @@
     "description": "Can make color party.",
     "prise": 102,
     "author_id": 3,
-    "photo_url":
+    "photo_url": "https://t3.ftcdn.net/jpg/05/69/37/24/360_F_569372470_AS9SXu0tboOLKyuDarJA0g5PWCNM1jAg.jpg"
   },
     {"id": 6,
     "name": "7-Segment Display",
